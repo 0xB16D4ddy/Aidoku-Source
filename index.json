@@ -8,4 +8,13 @@
     "version": 8,
     "nsfw": 2
   },
+  {
+    "id": "vi.truyenqq",
+    "name": "TruyenQQ",
+    "file": "vi.truyenqq-v3.aix",
+    "icon": "vi.truyenqq-v3.png",
+    "lang": "vi",
+    "version": 3,
+    "nsfw": 1
+  }
 ]
