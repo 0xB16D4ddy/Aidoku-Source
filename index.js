@@ -2,10 +2,10 @@
     {
         "id": "vi.hentaivn",
         "name": "HentaiVN",
-        "file": "vi.hentaivn-v5.aix",
-        "icon": "vi.hentaivn-v5.png",
+        "file": "vi.hentaivn-v10.aix",
+        "icon": "vi.hentaivn-v10.png",
         "lang": "vi",
-        "version": 5,
+        "version": 10,
         "nsfw": 2
     },
 ]
