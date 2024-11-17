@@ -1,0 +1,21 @@
+[package]
+name = "hentaivn"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[profile.dev]
+panic = "abort"
+
+cargo-features = ["strip"]
+
+[profile.release]
+panic = "abort"
+opt-level = "s"
+strip = "debuginfo"
+lto = true
+
+[dependencies]
+aidoku = { git = "https://github.com/Aidoku/aidoku-rs", features = ["helpers"] }

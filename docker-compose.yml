@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  aidoku-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/workspace/src # Source code folder on the host
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
