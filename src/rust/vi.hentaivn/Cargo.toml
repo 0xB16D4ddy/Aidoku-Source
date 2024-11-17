@@ -9,8 +9,6 @@ crate-type = ["cdylib"]
 [profile.dev]
 panic = "abort"
 
-cargo-features = ["strip"]
-
 [profile.release]
 panic = "abort"
 opt-level = "s"

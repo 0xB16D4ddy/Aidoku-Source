@@ -33,5 +33,4 @@ pub fn get_search_url(filters: Vec<Filter>, page: i32) -> String {
 		}
 	}
 	format!("{BASE_URL}/forum/search-plus.php?{qs}")
-	// https://{BASE_URL}/tim-kiem-truyen.html?key=test
 }

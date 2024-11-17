@@ -10,5 +10,9 @@ WORKDIR /workspace
 # Cài đặt target cần thiết
 RUN rustup target add wasm32-unknown-unknown
 
+# Update cargo
+
+RUN cargo update
+
 # Đặt shell làm entrypoint để cho phép tương tác
 ENTRYPOINT ["/bin/bash"]
