@@ -1,51 +1,5 @@
 [
   {
-    "id": "multi.mangadex",
-    "name": "MangaDex",
-    "file": "multi.mangadex-v7.aix",
-    "icon": "multi.mangadex-v7.png",
-    "lang": "multi",
-    "version": 7,
-    "nsfw": 0,
-    "minAppVersion": "0.5"
-  },
-  {
-    "id": "multi.myrockmanga",
-    "name": "MyRockManga",
-    "file": "multi.myrockmanga-v1.aix",
-    "icon": "multi.myrockmanga-v1.png",
-    "lang": "multi",
-    "version": 1,
-    "nsfw": 2
-  },
-  {
-    "id": "multi.otakusan",
-    "name": "Otaku Sanctuary",
-    "file": "multi.otakusan-v1.aix",
-    "icon": "multi.otakusan-v1.png",
-    "lang": "multi",
-    "version": 1,
-    "nsfw": 2
-  },
-  {
-    "id": "vi.blogtruyen",
-    "name": "BlogTruyen",
-    "file": "vi.blogtruyen-v2.aix",
-    "icon": "vi.blogtruyen-v2.png",
-    "lang": "vi",
-    "version": 2,
-    "nsfw": 1
-  },
-  {
-    "id": "vi.fecomic",
-    "name": "Fecomic",
-    "file": "vi.fecomic-v7.aix",
-    "icon": "vi.fecomic-v7.png",
-    "lang": "vi",
-    "version": 7,
-    "nsfw": 1
-  },
-  {
     "id": "vi.hentaivn",
     "name": "HentaiVN",
     "file": "vi.hentaivn-v8.aix",
@@ -53,32 +7,5 @@
     "lang": "vi",
     "version": 8,
     "nsfw": 2
-  },
-  {
-    "id": "vi.nettruyen",
-    "name": "NetTruyen",
-    "file": "vi.nettruyen-v8.aix",
-    "icon": "vi.nettruyen-v8.png",
-    "lang": "vi",
-    "version": 8,
-    "nsfw": 1
-  },
-  {
-    "id": "vi.truyenqq",
-    "name": "TruyenQQ",
-    "file": "vi.truyenqq-v3.aix",
-    "icon": "vi.truyenqq-v3.png",
-    "lang": "vi",
-    "version": 3,
-    "nsfw": 1
-  },
-  {
-    "id": "vi.truyentranhlh",
-    "name": "TruyentranhLH",
-    "file": "vi.truyentranhlh-v1.aix",
-    "icon": "vi.truyentranhlh-v1.png",
-    "lang": "vi",
-    "version": 1,
-    "nsfw": 1
   }
 ]
