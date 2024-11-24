@@ -6,7 +6,6 @@ services:
       context: .
       dockerfile: Dockerfile
     volumes:
-      - ./src:/workspace/src # Source code folder on the host
-    working_dir: /workspace
+      - ./src:/app/src # Source code folder on the host
     stdin_open: true
     tty: true
