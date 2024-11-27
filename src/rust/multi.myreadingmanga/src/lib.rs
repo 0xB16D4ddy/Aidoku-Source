@@ -43,7 +43,7 @@ enum Url<'a> {
 	Chapter(&'a str, &'a str),
 }
 
-const DOMAIN: &str = "https://myreadingmanga.info" ;
+const DOMAIN: &str = "https://myreadingmanga.info";
 
 /// Chrome 128 on iOS 17.6
 /// Apple iPhone
