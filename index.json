@@ -1,0 +1,38 @@
+[
+  {
+    "id": "en.hentai2read",
+    "name": "Hentai2Read",
+    "file": "en.hentai2read-v1.aix",
+    "icon": "en.hentai2read-v1.png",
+    "lang": "en",
+    "version": 1,
+    "nsfw": 2
+  },
+  {
+    "id": "en.hentaifox",
+    "name": "HentaiFox",
+    "file": "en.hentaifox-v2.aix",
+    "icon": "en.hentaifox-v2.png",
+    "lang": "en",
+    "version": 2,
+    "nsfw": 2
+  },
+  {
+    "id": "multi.myreadingmanga",
+    "name": "MyReadingManga",
+    "file": "multi.myreadingmanga-v9.aix",
+    "icon": "multi.myreadingmanga-v9.png",
+    "lang": "multi",
+    "version": 9,
+    "nsfw": 2
+  },
+  {
+    "id": "vi.hentaivn",
+    "name": "HentaiVN",
+    "file": "vi.hentaivn-v8.aix",
+    "icon": "vi.hentaivn-v8.png",
+    "lang": "vi",
+    "version": 8,
+    "nsfw": 2
+  }
+]
